@@ -1,0 +1,13 @@
+tr {
+    height: 128px;
+}
+
+td {
+    width: 128px;
+}
+
+img {
+    height: 64px;
+    width: 64px;
+    /* transform: rotate(0deg);/*/
+}
